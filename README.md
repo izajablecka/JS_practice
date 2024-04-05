@@ -1,0 +1,3 @@
+## Codewars practice
+
+JavaScript exercises
